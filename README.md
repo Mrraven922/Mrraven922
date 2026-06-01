@@ -49,34 +49,14 @@
 
 ## 🧑‍💻 About Me
 
-```python
-# ──────────────────────────────────────────
-#  vignesh_raj.py  ·  AI & Data Scientist
-# ──────────────────────────────────────────
+🚀 Profile Overview
+🎯 Attribute	📌 Details
+👤 Name	Vignesh Raj M
+📍 Location	Coimbatore, India 🇮🇳
+🎓 Degree	B.Tech AI & Data Science (2022–2026)
+📊 CGPA	7.8
+📧 Email	vigneshraj1004@gmail.com
 
-class VigneshRaj:
-    name      = "Vignesh Raj M"
-    location  = "Coimbatore, India 🇮🇳"
-    degree    = "B.Tech AI & Data Science (2022–26)"
-    cgpa      = 7.8
-    email     = "vigneshraj1004@gmail.com"
-
-    stack     = ["Python", "SQL", "Pandas",
-                 "NumPy", "Scikit-learn",
-                 "Matplotlib", "Seaborn"]
-
-    domains   = ["EDA", "Feature Engineering",
-                 "Classification", "Clustering",
-                 "Predictive Modeling",
-                 "Statistical Analysis"]
-
-    learning  = ["Power BI · DAX",
-                 "Deep Learning",
-                 "MLOps + FastAPI",
-                 "Advanced SQL"]
-
-    def motto(self):
-        return "📊 Data is not a number — it's a story."
 ```
 
 <br clear="right"/>
