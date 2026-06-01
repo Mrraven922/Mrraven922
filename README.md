@@ -49,17 +49,71 @@
 
 ## 🧑‍💻 About Me
 
-```python
-# ──────────────────────────────────────────
-#  vignesh_raj.py  ·  AI & Data Scientist
-# ──────────────────────────────────────────
 
+    # 👋 Hi, I'm Vignesh Raj
+
+<div align="center">
+
+## 🚀 Profile Overview
+
+| 🎯 Attribute    | 📌 Details                                                  |
+| --------------- | ----------------------------------------------------------- |
+| 👤 **Name**     | **Vignesh Raj M**                                           |
+| 📍 **Location** | Coimbatore, India 🇮🇳                                      |
+| 🎓 **Degree**   | B.Tech AI & Data Science (2022–2026)                        |
+| 📊 **CGPA**     | 7.8                                                         |
+| 📧 **Email**    | [vigneshraj1004@gmail.com](mailto:vigneshraj1004@gmail.com) |
+
+</div>
+
+---
+
+## 🌟 About Me
+
+```python
 class VigneshRaj:
+
     name      = "Vignesh Raj M"
     location  = "Coimbatore, India 🇮🇳"
-    degree    = "B.Tech AI & Data Science (2022–26)"
+    degree    = "B.Tech AI & Data Science (2022–2026)"
     cgpa      = 7.8
     email     = "vigneshraj1004@gmail.com"
+
+    def __str__(self):
+        return "AI & Data Science Enthusiast 🚀"
+```
+
+---
+
+## 💻 Tech Stack
+
+| Category            | Skills                    |
+| ------------------- | ------------------------- |
+| 🐍 Programming      | Python, SQL               |
+| 📊 Data Analysis    | Pandas, NumPy, Matplotlib |
+| 🤖 Machine Learning | Scikit-Learn              |
+| 🗄️ Database        | SQLite, MySQL             |
+| 🌐 Tools            | Git, GitHub, VS Code      |
+
+---
+
+## 📈 Current Focus
+
+✨ Machine Learning Projects
+✨ Data Analytics & Visualization
+✨ Python Development
+✨ AI Applications
+
+---
+
+<div align="center">
+
+### 🌟 "Turning Data into Insights"
+
+![Profile Views](https://komarev.com/ghpvc/?username=vigneshraj\&label=Profile%20Views)
+
+</div>
+
 
 ```
 
