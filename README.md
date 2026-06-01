@@ -9,7 +9,7 @@
 <!-- DYNAMIC TYPING -->
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%F0%9F%A7%A0+AI+%26+Data+Science+Undergraduate+%40+Suguna+College;%F0%9F%90%8D+Python+Engineer+%7C+Machine+Learning+Practitioner;%F0%9F%94%8D+Fraud+Detection+%7C+Risk+Analytics+%7C+Churn+Modeling;%F0%9F%93%8A+Transforming+Data+into+Business+Intelligence;%F0%9F%9A%80+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%F0%9F%A7%A0+AI+%26+Data+Science+Undergraduate+%40;%F0%9F%90%8D+Python+Engineer+%7C+Machine+Learning+Practitioner;%F0%9F%94%8D+Fraud+Detection+%7C+Risk+Analytics+%7C+Churn+Modeling;%F0%9F%93%8A+Transforming+Data+into+Business+Intelligence;%F0%9F%9A%80+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
   <br/>
 </div>
 
