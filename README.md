@@ -1,248 +1,291 @@
-<!-- HERO BANNER -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              VIGNESH RAJ M — GITHUB PROFILE README          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 1  HERO BANNER                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20Raj%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=VIGNESH%20RAJ%20M&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🤖%20AI%20%26%20Data%20Science%20Engineer%20%7C%20%F0%9F%93%8A%20ML%20Practitioner%20%7C%20%F0%9F%8C%8F%20Coimbatore%2C%20India&descAlignY=62&descSize=15&descColor=a8daff"/>
+
 </div>
 
-<!-- TYPING HEADER -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 2  ANIMATED TYPING LINE                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+Data+Science+Undergraduate;%F0%9F%90%8D+Python+%7C+ML+%7C+Predictive+Analytics;%F0%9F%93%8A+Building+End-to-End+Data+Pipelines;%F0%9F%9A%80+Fraud+Detection+%7C+Risk+Analytics+%7C+Churn+ML" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=%E2%9A%A1+Building+ML+Pipelines+that+power+real+decisions;%F0%9F%94%8D+Fraud+Detection+%7C+Churn+Prediction+%7C+Risk+Analytics;%F0%9F%90%8D+Python+%7C+Scikit-learn+%7C+Pandas+%7C+NumPy+%7C+SQL;%F0%9F%8C%B1+B.Tech+AI+%26+Data+Science+%40+Suguna+College+of+Engineering;%F0%9F%9A%80+Open+to+Internships+%26+Collaborations" />
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 3  QUICK-CONTACT BADGES                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-raj-m)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshraj1004@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrraven922)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Mrraven922&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Mrraven922)
+
 </div>
 
 <br/>
 
 ---
 
-<!-- CODE BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 4  ABOUT ME  (code + GIF)                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🧑‍💻 About Me
 
 ```python
-# vignesh_raj.py
+# ──────────────────────────────────────────
+#  vignesh_raj.py  ·  AI & Data Scientist
+# ──────────────────────────────────────────
 
 class VigneshRaj:
-    def __init__(self):
-        self.name         = "Vignesh Raj M"
-        self.location     = "Coimbatore, India 🇮🇳"
-        self.degree       = "B.Tech AI & Data Science @ Suguna College of Engineering"
-        self.github       = "github.com/Mrraven922"
-        self.linkedin     = "linkedin.com/in/vignesh-raj-m"
-        self.email        = "vigneshraj1004@gmail.com"
+    name      = "Vignesh Raj M"
+    location  = "Coimbatore, India 🇮🇳"
+    degree    = "B.Tech AI & Data Science (2022–26)"
+    cgpa      = 7.8
+    email     = "vigneshraj1004@gmail.com"
 
-        self.stack = [
-            "Python", "SQL",
-            "Pandas", "NumPy", "Scikit-learn",
-            "Matplotlib", "Seaborn"
-        ]
+    stack     = ["Python", "SQL", "Pandas",
+                 "NumPy", "Scikit-learn",
+                 "Matplotlib", "Seaborn"]
 
-        self.ml_domains = [
-            "Classification", "Clustering",
-            "Feature Engineering", "Model Evaluation",
-            "EDA", "Predictive Modeling"
-        ]
+    domains   = ["EDA", "Feature Engineering",
+                 "Classification", "Clustering",
+                 "Predictive Modeling",
+                 "Statistical Analysis"]
 
-        self.currently_learning = [
-            "Power BI & Advanced DAX",
-            "Deep Learning Fundamentals",
-            "MLOps & Model Deployment",
-            "Statistics & Probability Theory"
-        ]
-
-        self.fun_fact = "I can spot data patterns before coffee ☕"
+    learning  = ["Power BI · DAX",
+                 "Deep Learning",
+                 "MLOps + FastAPI",
+                 "Advanced SQL"]
 
     def motto(self):
-        return "Data is not just numbers — it's a story waiting to be told."
-
-me = VigneshRaj()
-print(me.motto())
+        return "📊 Data is not a number — it's a story."
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- TECH BADGES -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 5  TECH STACK — CLEAN, GROUPED              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Libraries & Frameworks**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
-
-**Analytics & ML**
-
-![EDA](https://img.shields.io/badge/EDA-38BDAE?style=flat-square&logo=databricks&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-BF91F3?style=flat-square&logo=scipy&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-70A5FD?style=flat-square&logo=tensorflow&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF6B6B?style=flat-square&logo=apache&logoColor=white)
-
-**Tools & Platforms**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Category | Technologies |
+|:--------:|:------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) &nbsp; ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) &nbsp; ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) &nbsp; ![Seaborn](https://img.shields.io/badge/Seaborn-3A7EBF?style=flat-square&logo=python&logoColor=white) |
+| **ML Domains** | ![Classification](https://img.shields.io/badge/Classification-2ECC71?style=flat-square) &nbsp; ![Clustering](https://img.shields.io/badge/Clustering-E67E22?style=flat-square) &nbsp; ![EDA](https://img.shields.io/badge/EDA-9B59B6?style=flat-square) &nbsp; ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-E74C3C?style=flat-square) &nbsp; ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-1ABC9C?style=flat-square) |
+| **Analytics** | ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=flat-square) &nbsp; ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F39C12?style=flat-square) &nbsp; ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-27AE60?style=flat-square) |
+| **Tools** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
 ---
 
-<!-- GITHUB STATS + TOP LANGUAGES -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 6  GITHUB STATS — Side by Side              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 📊 GitHub Stats
-
 <a href="https://github.com/Mrraven922">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mrraven922&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mrraven922&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
 </a>
 <a href="https://github.com/Mrraven922">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrraven922&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrraven922&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 </a>
 
 </div>
 
----
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 7  STREAK STATS                             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- STREAK STATS -->
 <div align="center">
 
-### 🔥 Streak Stats
+<img width="70%" src="https://streak-stats.demolab.com?user=Mrraven922&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=BF91F3&currStreakLabel=58A6FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
 
-<img src="https://streak-stats.demolab.com?user=Mrraven922&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 8  ACTIVITY GRAPH                           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrraven922&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=📈%20Vignesh's%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 9  TROPHY WALL                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrraven922&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Mrraven922&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
 ---
 
-<!-- TROPHY WALL -->
-<div align="center">
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 10  WORK EXPERIENCE                         -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-### 🏆 GitHub Trophies
+## 💼 Work Experience
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mrraven922&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-<!-- WORK EXPERIENCE -->
-### 💼 Work Experience
-
-<details>
+<details open>
 <summary><b>🏢 Xplore IT Corp — Data Science Intern &nbsp;|&nbsp; Sep 2025 – Nov 2025 &nbsp;|&nbsp; Coimbatore, India</b></summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-> ![EDA](https://img.shields.io/badge/EDA-38BDAE?style=flat-square&logo=databricks&logoColor=white)
-> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-BF91F3?style=flat-square&logo=scikit-learn&logoColor=white)
+> **Stack →** &nbsp;
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) &nbsp;
+> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) &nbsp;
+> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) &nbsp;
+> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-- 🔍 Performed end-to-end **data analysis and preprocessing** on real-world datasets, building clean, analysis-ready data pipelines
-- 📊 Conducted thorough **Exploratory Data Analysis (EDA)** using Pandas and NumPy to uncover patterns and statistical insights
-- 📉 Created **data visualizations** to communicate findings clearly to stakeholders and support data-driven decisions
-- 🤖 Applied **basic machine learning** techniques and gained hands-on exposure to model building workflows in a corporate environment
+| # | Responsibility | Impact |
+|:-:|:---------------|:-------|
+| 1 | Built end-to-end **data preprocessing pipelines** on real corporate datasets | Clean, analysis-ready data for downstream ML |
+| 2 | Conducted **Exploratory Data Analysis (EDA)** with Pandas & NumPy | Surfaced hidden patterns & statistical anomalies |
+| 3 | Designed **data visualizations** with Matplotlib & Seaborn | Translated findings into stakeholder narratives |
+| 4 | Applied **supervised & unsupervised ML** models | Hands-on exposure to full model development lifecycle |
 
 </details>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 11  FEATURED PROJECTS                       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|---|---|---|
-| [**🔐 Fraud Detection System**](https://github.com/Mrraven922) | Python · Scikit-learn · Pandas | Real-time ML model with feature engineering & imbalanced data handling; evaluated via ROC-AUC, precision-recall & cross-validation |
-| [**📉 Customer Churn Prediction**](https://github.com/Mrraven922) | Logistic Regression · Random Forest · EDA | End-to-end pipeline with preprocessing & model tuning; optimized using Accuracy and F1-score |
-| [**💳 Credit Risk Prediction**](https://github.com/Mrraven922) | Python · Scikit-learn · AUC-ROC | Credit risk classification model for loan default probability; model selected via AUC-ROC to support financial decision-making |
-| [**🎯 Customer Segmentation**](https://github.com/Mrraven922) | K-Means · Elbow Method · Silhouette Score | Unsupervised clustering for targeted marketing; generated data-driven insights from behavioral patterns |
+| # | Project | Type | Stack | Key Highlights |
+|:-:|:--------|:----:|:------|:---------------|
+| 1 | [🔐 **Fraud Detection System**](https://github.com/Mrraven922) | Supervised ML | Python · Scikit-learn · Pandas | Feature engineering + imbalanced data handling · Evaluated via ROC-AUC, Precision-Recall & Cross-Validation |
+| 2 | [📉 **Customer Churn Prediction**](https://github.com/Mrraven922) | Binary Classification | Logistic Regression · Random Forest · EDA | Full pipeline: EDA → Preprocessing → Tuning · Optimised on Accuracy & F1-Score |
+| 3 | [💳 **Credit Risk Prediction**](https://github.com/Mrraven922) | Risk Analytics | Python · Scikit-learn · AUC-ROC | Loan default classifier · Optimal model selection via AUC-ROC for financial decision support |
+| 4 | [🎯 **Customer Segmentation**](https://github.com/Mrraven922) | Unsupervised ML | K-Means · Elbow Method · Silhouette Score | Behavioural clusters for targeted marketing · Actionable data-driven campaign insights |
 
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS -->
-### 🏅 Achievements & Certifications
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 12  CERTIFICATIONS & ACHIEVEMENTS           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 🎓 | **Career Essentials in Data Analysis** | Issued by Microsoft & LinkedIn Learning |
-| 📊 | **Microsoft Power BI Data Analyst Associate (PL-300)** | Cert Prep via LinkedIn Learning |
-| 🤖 | **Career Essentials in Generative AI** | Issued by Microsoft & LinkedIn Learning |
-| 🐍 | **Python ML Domains Mastered** | Classification · Clustering · Feature Engineering · Model Evaluation |
-| 📐 | **Analytics Expertise** | EDA · Statistical Analysis · Data Visualization · Predictive Modeling |
+| Badge | Certification | Issuer | Year |
+|:-----:|:-------------|:-------|:----:|
+| ![Microsoft](https://img.shields.io/badge/✅%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Career Essentials in Data Analysis** | Microsoft × LinkedIn Learning | 2025 |
+| ![PowerBI](https://img.shields.io/badge/✅%20Certified-Power%20BI%20PL--300-F2C811?style=flat-square&logo=powerbi&logoColor=black) | **Microsoft Power BI Data Analyst Associate (PL-300)** | LinkedIn Learning · Cert Prep | 2025 |
+| ![GenAI](https://img.shields.io/badge/✅%20Certified-Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white) | **Career Essentials in Generative AI** | Microsoft × LinkedIn Learning | 2025 |
+| ![Internship](https://img.shields.io/badge/✅%20Completed-Internship-38BDAE?style=flat-square) | **Data Science Internship** | Xplore IT Corp, Coimbatore | 2025 |
+| ![Portfolio](https://img.shields.io/badge/🚀%20Live-ML%20Portfolio-FF6B6B?style=flat-square) | **End-to-End ML Project Portfolio (4 Projects)** | Self-built — Classification + Clustering | 2025 |
 
 </div>
 
 ---
 
-<!-- EDUCATION -->
-### 🎓 Education
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  § 13  EDUCATION + LEARNING + FOOTER          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🎓 Education
 
 <div align="center">
 
-| 📚 Degree | 🏫 Institution | 📅 Year | 📈 Score |
-|---|---|---|---|
-| **B.Tech – AI & Data Science** | Suguna College of Engineering, Coimbatore | 2022 – 2026 | CGPA: **7.8** |
-| **HSE (Class XII)** | GlobalPathways Matriculation Higher Secondary School | 2021 – 2022 | **65.6%** |
-| **SSLC (Class X)** | GlobalPathways Matriculation Higher Secondary School | 2019 – 2020 | **70.8%** |
+| 📚 Qualification | 🏫 Institution | 📅 Period | 📈 Score |
+|:----------------|:--------------|:---------:|:--------:|
+| **B.Tech — Artificial Intelligence & Data Science** | Suguna College of Engineering, Coimbatore | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-7.8%20%2F%2010-58A6FF?style=flat-square) |
+| **Higher Secondary — HSE (Class XII)** | GlobalPathways Matric. Hr. Sec. School | 2021 – 2022 | ![Score](https://img.shields.io/badge/Score-65.6%25-38BDAE?style=flat-square) |
+| **Secondary — SSLC (Class X)** | GlobalPathways Matric. Hr. Sec. School | 2019 – 2020 | ![Score](https://img.shields.io/badge/Score-70.8%25-BF91F3?style=flat-square) |
 
 </div>
-
----
-
-<!-- CURRENTLY LEARNING -->
-### 🌱 Currently Learning
-
-```
-🧱 Power BI        →  Advanced DAX · Custom Visuals · Report Design
-🧠 Deep Learning   →  Neural Networks · Backpropagation · PyTorch Basics
-⚙️  MLOps           →  Model Deployment · Docker · API Serving with FastAPI
-📐 Statistics      →  Hypothesis Testing · Bayesian Inference · Probability Theory
-🗃️  Databases       →  Advanced SQL · Window Functions · Query Optimization
-```
-
----
-
-<!-- CONNECT -->
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh%20Raj%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-raj-m)
-[![GitHub](https://img.shields.io/badge/GitHub-Mrraven922-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrraven922)
-[![Gmail](https://img.shields.io/badge/Gmail-vigneshraj1004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshraj1004@gmail.com)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mrraven922&color=70a5fd&style=flat-square&label=Profile+Views)
+## 🌱 Currently Learning
+
+```yaml
+Power BI       →  Advanced DAX · Custom Visuals · Power BI Service
+Deep Learning  →  ANN / CNN · Backpropagation · PyTorch Basics
+MLOps          →  Model Deployment · FastAPI · Docker Basics
+Statistics     →  Hypothesis Testing · Bayesian Inference · Distributions
+Advanced SQL   →  Window Functions · CTEs · Query Optimization
+```
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  CONNECT                                       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+*Open to internships, research collaborations & data science projects*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-raj-m)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshraj1004@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrraven922?tab=repositories)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/>
+
+> *"The goal is to turn data into information, and information into insight."*
+
+<br/>
+
+<sub>⭐ Found something interesting? Star a repo — it helps a lot! 🙏</sub>
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  FOOTER WAVE                                   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,20&height=140&section=footer&animation=twinkling"/>
