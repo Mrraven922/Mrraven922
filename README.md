@@ -61,22 +61,6 @@ class VigneshRaj:
     cgpa      = 7.8
     email     = "vigneshraj1004@gmail.com"
 
-    stack     = ["Python", "SQL", "Pandas",
-                 "NumPy", "Scikit-learn",
-                 "Matplotlib", "Seaborn"]
-
-    domains   = ["EDA", "Feature Engineering",
-                 "Classification", "Clustering",
-                 "Predictive Modeling",
-                 "Statistical Analysis"]
-
-    learning  = ["Power BI · DAX",
-                 "Deep Learning",
-                 "MLOps + FastAPI",
-                 "Advanced SQL"]
-
-    def motto(self):
-        return "📊 Data is not a number — it's a story."
 ```
 
 <br clear="right"/>
