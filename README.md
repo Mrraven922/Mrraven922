@@ -70,17 +70,7 @@
 
 ## 🌟 About Me
 
-```python
-class VigneshRaj:
 
-    name      = "Vignesh Raj M"
-    location  = "Coimbatore, India 🇮🇳"
-    degree    = "B.Tech AI & Data Science (2022–2026)"
-    cgpa      = 7.8
-    email     = "vigneshraj1004@gmail.com"
-
-    def __str__(self):
-        return "AI & Data Science Enthusiast 🚀"
 ```
 
 ---
