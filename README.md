@@ -49,7 +49,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 👋 Hi! I'm **Vignesh Raj M**
 
@@ -131,15 +130,8 @@
 <!--  § 9  TROPHY WALL                              -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Mrraven922&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
-
-</div>
-
----
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--  § 10  WORK EXPERIENCE                         -->
