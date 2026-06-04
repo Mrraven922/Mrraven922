@@ -49,38 +49,23 @@
 
 ## 🧑‍💻 About Me
 
-```python
-# ──────────────────────────────────────────
-#  vignesh_raj.py  ·  AI & Data Scientist
-# ──────────────────────────────────────────
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-class VigneshRaj:
-    name      = "Vignesh Raj M"
-    location  = "Coimbatore, India 🇮🇳"
-    degree    = "B.Tech AI & Data Science (2022–26)"
-    cgpa      = 7.8
-    email     = "vigneshraj1004@gmail.com"
+👋 Hi! I'm **Vignesh Raj M**
 
-    stack     = ["Python", "SQL", "Pandas",
-                 "NumPy", "Scikit-learn",
-                 "Matplotlib", "Seaborn"]
+- 🎓 **B.Tech in AI & Data Science** @ Suguna College of Engineering *(2022 – 2026)*
+  
+- 📊 **CGPA:** 7.8 / 10
+  
+- 💼 **Ex-Intern** @ Xplore IT Corp — Data Science (Sep–Nov 2025)
+  
+- 🚀 Open to **Internships, Collaborations & Research Projects**
+ 
+- 📬 Reach me at: **vigneshraj1004@gmail.com**
 
-    domains   = ["EDA", "Feature Engineering",
-                 "Classification", "Clustering",
-                 "Predictive Modeling",
-                 "Statistical Analysis"]
-
-    learning  = ["Power BI · DAX",
-                 "Deep Learning",
-                 "MLOps + FastAPI",
-                 "Advanced SQL"]
-
-    def motto(self):
-        return "📊 Data is not a number — it's a story."
-```
+> *"📊 Data is not a number — it's a story."*
 
 <br clear="right"/>
-
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -244,14 +229,17 @@ class VigneshRaj:
 
 ## 🌱 Currently Learning
 
-```yaml
-Power BI       →  Advanced DAX · Custom Visuals · Power BI Service
-Deep Learning  →  ANN / CNN · Backpropagation · PyTorch Basics
-MLOps          →  Model Deployment · FastAPI · Docker Basics
-Statistics     →  Hypothesis Testing · Bayesian Inference · Distributions
-Advanced SQL   →  Window Functions · CTEs · Query Optimization
-```
+<div align="center">
 
+| Domain | Topics |
+|:------:|:-------|
+| ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Advanced DAX · Custom Visuals · Power BI Service |
+| ![DL](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ANN / CNN · Backpropagation · PyTorch Basics |
+| ![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=flat-square&logo=docker&logoColor=white) | Model Deployment · FastAPI · Docker Basics |
+| ![Stats](https://img.shields.io/badge/Statistics-8E44AD?style=flat-square&logo=python&logoColor=white) | Hypothesis Testing · Bayesian Inference · Distributions |
+| ![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | Window Functions · CTEs · Query Optimization |
+
+</div>
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
