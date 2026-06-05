@@ -88,21 +88,10 @@
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 6  GITHUB STATS — Side by Side              -->
+<!--  § 6  GITHUB STATS — Streak + Contribution     -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Mrraven922">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mrraven922&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
-</a>
-<a href="https://github.com/Mrraven922">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrraven922&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=12"/>
-</a>
-
-</div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--  § 7  STREAK STATS                             -->
