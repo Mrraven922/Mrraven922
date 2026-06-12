@@ -1,51 +1,44 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              VIGNESH RAJ M — GITHUB PROFILE README          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+# <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 1  HERO BANNER                              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=VIGNESH%20RAJ%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58"/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Data+Analyst;Machine+Learning+Practitioner;Data+Science+Enthusiast;Building+Scalable+Data-Driven+Products)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=VIGNESH%20RAJ%20M&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🤖%20AI%20%26%20Data%20Science%20Engineer%20%7C%20%F0%9F%93%8A%20ML%20Practitioner%20%7C%20%F0%9F%8C%8F%20Coimbatore%2C%20India&descAlignY=62&descSize=15&descColor=a8daff"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-7.8-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fresher-Data%20Analyst-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-6366F1?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<a href="mailto:vigneshraj1004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/vignesh-raj-m">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Mrraven922">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mrraven922&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/Mrraven922?style=for-the-badge&color=A855F7"/>
+<img src="https://img.shields.io/github/stars/Mrraven922?style=for-the-badge&color=6366F1"/>
+</p>
 
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 2  ANIMATED TYPING LINE                     -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=%E2%9A%A1+Building+ML+Pipelines+that+power+real+decisions;%F0%9F%94%8D+Fraud+Detection+%7C+Churn+Prediction+%7C+Risk+Analytics;%F0%9F%90%8D+Python+%7C+Scikit-learn+%7C+Pandas+%7C+NumPy+%7C+SQL;%F0%9F%8C%B1+B.Tech+AI+%26+Data+Science+%40+;%F0%9F%9A%80+Open+to+Internships+%26+Collaborations" />
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 3  QUICK-CONTACT BADGES                     -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-raj-m)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshraj1004@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrraven922)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Mrraven922&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Mrraven922)
-
-</div>
-
-<br/>
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 4  ABOUT ME  (code + GIF)                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -91,28 +84,43 @@
 <!--  § 6  GITHUB STATS — Streak + Contribution     -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 GitHub Stats
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  § 7  STREAK STATS                             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
+# GitHub Analytics
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Mrraven922&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=BF91F3&currStreakLabel=58A6FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
+<p align="center">
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrraven922&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrraven922&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrraven922&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--  § 8  ACTIVITY GRAPH                           -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
+# Contribution Activity
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrraven922&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=📈%20Vignesh's%20Contribution%20Graph"/>
 
-</div>
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+---
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
