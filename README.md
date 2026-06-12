@@ -40,25 +40,6 @@
 
 
 
-## 🧑‍💻 About Me
-
-
-👋 Hi! I'm **Vignesh Raj M**
-
-- 🎓 **B.Tech in AI & Data Science** @ Suguna College of Engineering *(2022 – 2026)*
-  
-- 📊 **CGPA:** 7.8 / 10
-  
-- 💼 **Ex-Intern** @ Xplore IT Corp — Data Science (Sep–Nov 2025)
-  
-- 🚀 Open to **Internships, Collaborations & Research Projects**
- 
-- 📬 Reach me at: **vigneshraj1004@gmail.com**
-
-> *"📊 Data is not a number — it's a story."*
-
-<br clear="right"/>
----
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--  § 5  TECH STACK — CLEAN, GROUPED              -->
